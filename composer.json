@@ -1,0 +1,22 @@
+{
+    "name": "shawnx/json-session-handlers",
+    "type": "library",
+    "description": "Session Handlers Using a JSON Storage Format",
+    "keywords": [],
+    "homepage": "http://github.com/flamingtop/php-json-session-handlers",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shawn Xu",
+            "email": "shallway.xu@gmail.com@"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "psr-0": { "JSONSessionHandlers\\": "src" }
+    },
+    "target-dir": "JSONSessionHandlers",
+    "minimum-stability": "dev"
+}
