@@ -15,7 +15,7 @@
         "php": ">=5.3"
     },
     "autoload": {
-        "psr-0": { "JSONSessionHandlers": "src/" }
+        "psr-0": { "ShawnX\\JSONSessionHandlers": "src/" }
     },
     "minimum-stability": "dev"
 }
